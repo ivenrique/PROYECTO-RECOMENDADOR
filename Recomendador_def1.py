@@ -115,7 +115,7 @@ def show_pdf(file_path):
 
 
 # Página 0; Código Bruto
-df=pd.read_csv("df_Clean_TripAdvisor 2023-09-07 13_29_53.csv")
+df=pd.read_csv("df_Clean_TripAdvisor.csv")
 
 factor=0.6 
 Punt_poderada_list=[]
